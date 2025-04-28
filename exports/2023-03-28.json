@@ -1,1 +1,1 @@
-{"date":"2023-03-28","samples":[{"value":0,"type":"HKCategoryTypeIdentifierToothbrushingEvent","startDate":"2023-03-28T07:32:37Z","endDate":"2023-03-28T07:33:28Z"}]}
+{"samples":[{"endDate":"2023-03-28T07:33:28Z","type":"HKCategoryTypeIdentifierToothbrushingEvent","startDate":"2023-03-28T07:32:37Z","value":0}],"date":"2023-03-28"}
